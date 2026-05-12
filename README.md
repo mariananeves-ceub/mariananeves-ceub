@@ -2,7 +2,16 @@
 
 ```` Análise e Dsenvolvimento de Sistemas ````
 
-Estudante de Análise e Desenvolvimento de Sistemas com perfil comunicativo, dedicado e facilidade para liderança em ambientes colaborativos. Possuo base técnica em desenvolvimento de software e metodologias ágeis, com forte capacidade de aprendizado e adaptação.
+🎓Estudante de Análise e Desenvolvimento de Sistemas do CEUB com perfil comunicativo, dedicado e facilidade para liderança em ambientes colaborativos. Possuo base técnica em desenvolvimento de software e metodologias ágeis, com forte capacidade de aprendizado e adaptação.
+🚀 Atualmente estudando
+- C#
+- Lógica de Programação
+- MySQL e PostgreSQL
+- Matemática para Computação
+- Algoritmos
+- Análise de Requisitos
+- Frameworks
+- Estruturas Básicas de Desenvolvimento
 
 Fale comigo por aqui: <a href="mailto:mariana.1n2c@gmail.com" target="__blank">mariana.1n2c@gmail.com</a> 
 
